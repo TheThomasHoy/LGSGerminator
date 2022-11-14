@@ -1,0 +1,67 @@
+{
+    "formula": [
+        {
+            "Seed_Name": "ThaiBasil",
+            "Customer_Name": "COSTCO",
+            "Preferred_Supplier": "Supplier name, Seed id",
+
+            "Seed_Cartridge_Data":[{
+                "Numer_of_Seeds_Per_Inch":123,
+                "Grow_Media_Formula":"Peat Moss, Fiber, and Nutrients"
+            }],
+
+            "Expected_Times":[{
+                "Expected_Days_In_Germinator":123,
+                "Expected_Days_between_harvest":123
+            }],
+            
+            "Cyle_Definition":"0,1,2,3",
+
+            "Yield_Per_Quadrant":133,
+            "Leaf_Color":"Color",
+            "BRIX_Level":"Sample",
+            "Expected_Leaf_Shape":"Picture Of Leaf???",
+            
+            "CO2":[{
+                "Expected_CO2_In_Grow_Quadrant_Lights_On":123,
+                "Expected_CO2_In_Grow_Quadrant_Lights_Off":123,
+                "Expected_CO2_In_Room_Quadrant_Lights_On_With_Majority_Quadrants_Lighted":123,
+                "Expected_CO2_In_Room_Quadrant_Lights_On_With_Majority_Quadrants_Off":123,
+                "Expected_VPD_In_Grow_Quadrant_Lights_On":123,
+                "Expected_VPD_In_Grow_Quadrant_Lights_Off":123,
+                "Expected_VPD_In_Room_Majority_Lights_On":123,
+                "Expected_VPD_In_Room_Majority_Lights_Off":123
+            }],
+            "Temperature":[{
+                "Expected_Temperature_In_Grow_Quadrant_Lights_On":123,
+                "Expected_Temperature_In_Grow_Quadrant_Lights_Off":123,
+                "Expected_Temperature_In_Room_Lights_On":123,
+                "Expected_Temperature_In_Room_Lights_Off":123
+            }],
+            "Humidity":[{
+                "Expected_CO2_In_Grow_Quadrant_Lights_On":123,
+                "Expected_CO2_In_Grow_Quadrant_Lights_Off":123,
+                "Expected_CO2_In_Room_Lights_On":123,
+                "Expected_CO2_In_Room_Lights_Off":123
+            }],
+            "Reservoir":[{
+                "Expected_TDS_Lights_On":123,
+                "Expected_TDS_Lights_Off":123,
+                "Expected_PH_Lights_On":123,
+                "Expected_PH_Lights_Off":123,
+                "Start_Time":123,
+                "Off_Time":123
+            }],
+            "Pump":[{
+                "Start_Time":"11:11",
+                "End_Time":"11:11"
+            }],
+            "Fan":[{
+                "Start_Time":"11:11",
+                "End_Time":"11:11",
+                "Fan_Speed":123
+            }]
+        }
+        
+    ]
+}
